@@ -7,7 +7,7 @@ Small tool to decrypt MultiDesk passwords. For more information, please refer to
 To install the tool, simply use `pip` on a system with Python 3.10+:
 
 ```text
-pip install multidesk
+pip install multidesk-decrypt
 ```
 
 ## Usage
