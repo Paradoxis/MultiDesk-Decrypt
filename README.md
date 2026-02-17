@@ -1,6 +1,6 @@
 # MultiDesk Decryption Tool
 
-Small tool to decrypt MultiDesk passwords. For more information, please refer to the [blog post](TKTK_ADD_BLOG_XREF).
+Small tool to decrypt MultiDesk passwords. For more information, please refer to the [blog post](https://medium.com/p/58af8ad274b3).
 
 ## Installation
 
