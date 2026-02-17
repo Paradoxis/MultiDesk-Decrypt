@@ -9,7 +9,6 @@ authors = [
   { name = "Paradoxis", email = "paradoxis@users.noreply.github.com" }
 ]
 classifiers = [
-  "Development Status :: 3 - Beta",
   "Programming Language :: Python :: 3.10",
   "Intended Audience :: Information Technology",
   "Typing :: Typed",
