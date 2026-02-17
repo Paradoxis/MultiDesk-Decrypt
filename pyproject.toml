@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "multidesk-decrypt"
+readme = "README.md"
 requires-python = "~=3.10"
 authors = [
   { name = "Paradoxis", email = "paradoxis@users.noreply.github.com" }
