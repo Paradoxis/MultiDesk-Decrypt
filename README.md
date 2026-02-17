@@ -1,6 +1,6 @@
 # MultiDesk Decryption Tool
 
-Small tool to decrypt MultiDesk passwords. For more information, please refer to the [blog post](https://medium.com/p/58af8ad274b3).
+Small tool to decrypt MultiDesk passwords. For more information, please refer to the [blog post](https://blog.paradoxis.nl/decrypting-multidesk-passwords-58af8ad274b3).
 
 ## Installation
 
