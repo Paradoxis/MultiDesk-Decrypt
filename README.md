@@ -15,7 +15,7 @@ pip install multidesk-decrypt
 The decryption tool offers the following options:
 
 ```
-$ multidesk -h
+$ multidesk-decrypt -h
 usage: multidesk [-h] -k KEY [-j] [-v] [-q] data
 
 MultiDesk password decryption tool.
@@ -55,11 +55,11 @@ Once obtained, pass the XML file, or password you'd like to decrypt:
 
 ```text
 // decrypting files directly
-multidesk ./MultiDesk.xml --key 9180009A8E770A0BF0168785EF26812E
+multidesk-decrypt ./MultiDesk.xml --key 9180009A8E770A0BF0168785EF26812E
 
 // decrypting modern (v5+) passwords
-multidesk '$1$e76ceda56552e9d401ab108c1c13784d$b0db49838212040fecc999ba445b08d1602c1c4e655c13f9b3f4160d0f3349c8' --key 9180009A8E770A0BF0168785EF26812E
+multidesk-decrypt '$1$e76ceda56552e9d401ab108c1c13784d$b0db49838212040fecc999ba445b08d1602c1c4e655c13f9b3f4160d0f3349c8' --key 9180009A8E770A0BF0168785EF26812E
 
 // decrypting legacy (3.16) passwords
-multidesk 'hOwcVeWa/3A=' --key 08D771FBCCE52924A3A4444673F1425F
+multidesk-decrypt 'hOwcVeWa/3A=' --key 08D771FBCCE52924A3A4444673F1425F
 ```
